@@ -15,6 +15,7 @@ This repository contains documents and research materials for study and analysis
 ## Key Documents
 - [Research Skills Guide](./research_skills.md) - Comprehensive guide on deep research methodologies
 - [Effective Research Practices](./effective_research_guide.md) - Practical approaches to efficient research
+- [AI Research Tools](./ai_research_tools.md) - Guide to AI-assisted research tools and methodologies
 
 ## Website
 This repository hosts a GitHub Pages site available at: https://958877748.github.io/leizi-documents/
